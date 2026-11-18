@@ -76,7 +76,7 @@ Projects I'm building and improving:
 ### 📚 Currently Learning
 
 - Python for DevOps Automation
-- Advanced Kubernetes and AWS EKS
+-  Kubernetes and AWS EKS
 - GitOps and Argo CD
 - Real-world DevOps implementation and best practices
 
